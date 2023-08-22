@@ -116,7 +116,7 @@ ul li{
     margin-left: 0px;
 }
 .maintext button:hover{
-background-color:gray;
+background-color:darkgray;
 color: whitesmoke;
 cursor: pointer;
 }
