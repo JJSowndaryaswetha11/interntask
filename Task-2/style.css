@@ -117,6 +117,6 @@ ul li{
 }
 .maintext button:hover{
 background-color:darkgray;
-color: whitesmoke;
+color: gray;
 cursor: pointer;
 }
