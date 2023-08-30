@@ -96,5 +96,5 @@
     background-position: center;
 }
 .carousel-item{
-    width:130px;
+    position: relative;
 }
