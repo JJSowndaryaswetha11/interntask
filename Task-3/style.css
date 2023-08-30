@@ -95,9 +95,3 @@
     background-size: cover;
     background-position: center;
 }
-.carousel-item{
-    height:50px;
-    background-color:black;
-    color: white;
-    position: relative;
-}
