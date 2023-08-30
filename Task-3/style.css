@@ -96,5 +96,8 @@
     background-position: center;
 }
 .carousel-item{
+    height: 32rem;
+    background-color:black;
+    color: white;
     position: relative;
 }
