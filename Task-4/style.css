@@ -103,3 +103,21 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media(max-width:760px){
+    .todo{
+        align-items:center;
+        flex-direction:column;
+    }
+    .todo h2{
+        margin:10px 0;
+    }
+    .row{
+        width:100%;
+    }
+
+}
+@media(max-width:480px){
+    .row input{
+        width:74%;
+    }
+}
