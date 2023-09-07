@@ -24,6 +24,7 @@
     display:flex;
     align-items: center;
     margin-bottom: 20px;
+    justify-content: center;
 
 }
 .todo  h2 img{
@@ -83,6 +84,9 @@ ul li.checked{
 }
 ul li.checked::before{
     background-image: url(images/checked.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 ul li span{
     position: absolute;
