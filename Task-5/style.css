@@ -1,0 +1,59 @@
+body {
+    background:linear-gradient(135deg,#1193fe47,#7b0785bd);
+}
+
+.container {
+    background-color:whitesmoke;
+    padding: 20px;
+    border-radius: 5px;
+    
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.addToCartBtn {
+    width: 100%;
+}
+
+.list-group-item {
+    background-color:plum;
+    border: none;
+}
+.cart{
+    font-family: cursive;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    font-weight: bolder;
+}
+.container{
+    background-color:white;
+}
+.nav-container {
+   color:azure;
+    padding: 10px;
+    border-radius: 5px;
+    
+    margin-top: 0px;
+    text-align: center;
+    margin-left: 80px;
+    
+    
+}
+.btn{
+    background-color: whitesmoke;
+    color:purple;
+}
+.row{
+    font-family:cursive;
+    font-size: 20px;
+}
+.navbar-custom{
+   background: linear-gradient(135deg,#1125fe47,#7b0785bd);
+    
+}
